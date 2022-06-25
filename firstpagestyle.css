@@ -1,0 +1,621 @@
+
+.linkspanner{
+    position:absolute; 
+    width:100%;
+    height:100%;
+    top:0;
+    left: 0;
+    z-index: 1;
+    text-decoration: none;
+    outline: 0;
+  }   
+  
+  .bottombarlistitem{
+    position: absolute;
+    margin: 10px;
+    color: white;
+    left: 25%;
+    width: 100%;
+  }
+  
+  .bottombarlistitem1{
+    position: absolute;
+    margin: 10px;
+    color: white;
+    left: 0;
+    width: 100%;
+    top: 15px;
+  }
+  .bottombarlistitem2{
+    position: absolute;
+    margin: 10px;
+    color: #FFFFFF;
+    left: 0%;
+    width: 100%;
+    display: block;
+    top: 40px;
+  }
+  .bottombarlistitem3{
+    position: absolute;
+    margin: 10px;
+    color: white;
+    left: 0%;
+    width: 100%;
+    top: 65px;
+  }
+  .bottombarlistitem4{
+    position: absolute;
+    margin: 10px;
+    color: white;
+    left: 0%;
+    width: 100%;
+    top: 90px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+    }
+    
+    a:visited{
+    text-decoration: none;
+    color: black;}
+  
+  .pagedimensions {
+    width: 100%;
+    height: 3500px;
+    left: 0px;
+  }
+  
+  .bottombarhydrovia {
+    position: relative;
+    left: 20px;
+    top: -60px;
+    width: 100%;
+    /* Title */
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #FFFFFF;
+  }
+  
+  .websitecredits {
+    position: relative;
+    width: 100%;
+    height: 14px;
+    top: 80px;
+    text-align: center;
+    /* Tertiary */
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    color:  #FFFFFF;
+    display: block;
+  }
+  
+  .socialicons {
+  }
+  
+  .socialbottombar {
+    position: relative;
+    width: 100%;
+    height: 15px;
+    top: 20px;
+    display: block;
+    left: 45%;
+  }
+  
+  .connectbottombartext {
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+    position: relative;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    display: block;
+  }
+  
+  .connectbottombar{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    left: 0%;
+    top: 42px;
+  }
+  
+  .hydroviatextheaderbar {
+    position: absolute;
+    left: 10px;
+    top: 16px;
+    width: 10%;
+    /* Title */
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #000000;
+  }
+  
+  .headerbartext {
+    margin-inline: 20px;
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+  }
+  
+  .underlinedclickabletext {
+    /* Learn more about our story. */
+    position: relative;
+    left: 10%;
+    top: 256px;
+    width: 20%;
+    height: 31px;
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31.25px;
+    line-height: 31px;
+    text-decoration-line: underline;
+    color: #333333;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .bottombar {
+    position: absolute;
+    width: 100%;
+    height: 255px;
+    left: 0px;
+    top: 5110px;
+    background: #244A07;
+  }
+  
+  .bottommenu {
+    position: absolute;
+    width: 120px;
+    height: 100px;
+    right: 5%;
+    top: 42px;
+  }
+  
+  .bottommenutext {
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+    text-align: right;
+    position: relative;
+    left: 40px;
+  }
+  
+  .bottombarlist {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    list-style-type: none;
+    text-align: center;
+    color: #FFFFFF;
+    display: block;
+    top: 20px;
+    width: 55%;
+    left: 0%;
+  }
+  
+  .footerbackground {
+    position: relative;
+    width: 100%;
+    height: 255px;
+    background: rgba(36,74,7,1);
+    opacity: 1;
+  }
+  
+  .headerbackground {
+    width: 100%;
+    height: 80px;
+    background: rgba(247,247,247,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  
+  .headerbar {
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    /* H3 */
+    font-family: 'Sulphur Point';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+    }   
+  
+    
+    body {
+      font-size: 14px;
+    }
+    .Pagedimensions {
+      width: 100%;
+      height: 5365px;
+      background: rgba(247,247,247,1);
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .v16_789 {
+      width: 0%;
+      height: 255px;
+      background: rgba(36,74,7,1);
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .catalyswhitebackground {
+      width: 100%;
+      height: 919px;
+      background: rgba(255,255,255,1);
+      opacity: 1;
+      position: absolute;
+      top: 4191px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .catalystimage {
+      width: 100%;
+      height: 900px;
+      background: url("/Users/test/Desktop/uxui website media/Main page/fifth image main page.jpeg");
+      opacity: 1;
+      position: absolute;
+      top: 19px;
+      left: 0px;
+    }
+    .catalysttextbox {
+      width: 908px;
+      height: 307px;
+      background: url("../images/v16_792.png");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 200px;
+      overflow: hidden;
+    }
+    .translucentcatalysttextbackground {
+      width: 908px;
+      height: 288px;
+      background: rgba(255,255,255,0.8500000238418579);
+      opacity: 1;
+      position: absolute;
+      top: 19px;
+      left: 0px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+    }
+    .greenhighlighttopcatalyst {
+      width: 908px;
+      height: 19px;
+      background: rgba(36,74,7,1);
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .catalysttext {
+      width: 754px;
+      color: rgba(51,51,51,1);
+      position: absolute;
+      top: 69px;
+      left: 58px;
+      font-family: Sulphur Point;
+      font-weight: Regular;
+      font-size: 39px;
+      opacity: 1;
+      text-align: left;
+    }
+    .name {
+      color: #fff;
+    }
+    .name {
+      color: #fff;
+    }
+    .name {
+      color: #fff;
+    }
+    .v16_799 {
+      width: 100%;
+      height: 940px;
+      background: rgba(255,255,255,1);
+      opacity: 1;
+      position: absolute;
+      top: 3151px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .v16_800 {
+      width: 100%;
+      height: 919px;
+      background: url("/Users/test/Desktop/uxui website media/Main page/fourth image main page.jpeg");
+      opacity: 1;
+      position: absolute;
+      top: 21px;
+      left: 0px;
+    }
+    .v16_801 {
+      width: 80%;
+      height: 349px;
+      background: url("../images/v16_801.png");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .v16_802 {
+      width: 908px;
+      height: 328px;
+      background: rgba(255,255,255,0.8500000238418579);
+      opacity: 1;
+      position: absolute;
+      top: 21px;
+      left: 0px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+    }
+    .v16_803 {
+      width: 70%;
+      color: rgba(51,51,51,1);
+      position: absolute;
+      top: 77px;
+      left: 10%;
+      font-family: Sulphur Point;
+      font-weight: Regular;
+      font-size: 39px;
+      opacity: 1;
+      text-align: left;
+    }
+    .v16_804 {
+      width: 792px;
+      height: 21px;
+      background: rgba(36,74,7,1);
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+    .name {
+      color: #fff;
+    }
+    .name {
+      color: #fff;
+    }
+    .name {
+      color: #fff;
+    }
+    .v16_808 {
+      width: 100%;
+      height: 919px;
+      background: rgba(255,255,255,1);
+      opacity: 1;
+      position: absolute;
+      top: 2132px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .v16_809 {
+      width: 100%;
+      height: 900px;
+      background: url("/Users/test/Desktop/uxui website media/Main page/third image main page.jpeg");
+      opacity: 1;
+      position: absolute;
+      top: 19px;
+      left: 0px;
+    }
+    .v16_810 {
+      width: 908px;
+      height: 382px;
+      background: url("../images/v16_810.png");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 20%;
+      overflow: hidden;
+    }
+    .v16_811 {
+      width: 85%;
+      height: 372px;
+      background: rgba(255,255,255,0.8500000238418579);
+      opacity: 1;
+      position: absolute;
+      top: 10px;
+      left: 0px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+    }
+    .v16_812 {
+      width: 754px;
+      color: rgba(51,51,51,1);
+      position: absolute;
+      top: 69px;
+      left: 60px;
+      font-family: Sulphur Point;
+      font-weight: Regular;
+      font-size: 39px;
+      opacity: 1;
+      text-align: left;
+    }
+    .v16_813 {
+      width: 80%;
+      height: 19px;
+      background: rgba(36,74,7,1);
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      overflow: hidden;
+    }
+    .name {
+      color: #fff;
+    }
+    .name {
+      color: #fff;
+    }
+    .v16_816 {
+      width: 100%;
+      height: 919px;
+      background: rgba(255,255,255,1);
+      opacity: 1;
+      position: absolute;
+      top: 1113px;
+      right: 0px;
+      overflow: hidden;
+    }
+    .v16_817 {
+      width: 100%;
+      height: 900px;
+      background: url("/Users/test/Desktop/uxui website media/Main page/second image main pge.jpeg");
+      opacity: 1;
+      position: absolute;
+      top: 19px;
+      left: 0px;
+    }
+    .v16_818 {
+      width: 60%;
+      height: 309px;
+      background: url("../images/v16_818.png");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      right: 0%;
+      overflow: hidden;
+    }
+    .v16_819 {
+      width: 908px;
+      height: 290px;
+      background: rgba(255,255,255,0.8500000238418579);
+      opacity: 1;
+      position: absolute;
+      top: 19px;
+      left: 0px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+    }
+    .v16_820 {
+      width: 80%;
+      color: rgba(51,51,51,1);
+      position: absolute;
+      top: 69px;
+      left: 10%;
+      font-family: Sulphur Point;
+      font-weight: Regular;
+      font-size: 39px;
+      opacity: 1;
+      text-align: left;
+    }
+    .v16_821 {
+      width: 80%;
+      height: 19px;
+      background: rgba(36,74,7,1);
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      overflow: hidden;
+    }
+    .name {
+      color: #fff;
+    }
+    .name {
+      color: #fff;
+    }
+    .coverpageimage {
+      width: 100%;
+      height: 900px;
+      background: rgba(255,255,255,1);
+      opacity: 1;
+      position: absolute;
+      top: 85px;
+      left: 0%;
+      overflow: hidden;
+    }
+    .name {
+      color: #fff;
+    }
+    .v16_826 {
+      width: 100%;
+      height: 900px;
+      background: url("/Users/test/Desktop/uxui website media/Main page/top image main page.jpeg");
+      opacity: 1;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+    .v16_827 {
+      width: 401;
+      color: rgba(247,247,247,1);
+      position: absolute;
+      top: 382px;
+      margin: auto;
+      font-family: Arial;
+      font-weight: Regular;
+      font-size: 50px;
+      opacity: 1;
+      text-align: center;
+    }
+    .v16_828 {
+      width: 100%;
+      color: rgba(247,247,247,1);
+      position: absolute;
+      top: 235px;
+      left: 0%;
+      font-family: Sulphur Point;
+      font-weight: Bold;
+      font-size: 105px;
+      opacity: 1;
+      text-align: center;
+    }
+    .name {
+      color: #fff;
+    }
