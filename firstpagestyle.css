@@ -293,7 +293,7 @@
     .catalystimage {
       width: 100%;
       height: 900px;
-      background: url("/Users/test/Desktop/uxui website media/Main page/fifth image main page.jpeg");
+      background: url("Main page/fifth image main page.jpeg");
       opacity: 1;
       position: absolute;
       top: 19px;
@@ -367,7 +367,7 @@
     .v16_800 {
       width: 100%;
       height: 919px;
-      background: url("/Users/test/Desktop/uxui website media/Main page/fourth image main page.jpeg");
+      background: url("Main page/fourth image main page.jpeg");
       opacity: 1;
       position: absolute;
       top: 21px;
@@ -440,7 +440,7 @@
     .v16_809 {
       width: 100%;
       height: 900px;
-      background: url("/Users/test/Desktop/uxui website media/Main page/third image main page.jpeg");
+      background: url("Main page/third image main page.jpeg");
       opacity: 1;
       position: absolute;
       top: 19px;
@@ -511,7 +511,7 @@
     .v16_817 {
       width: 100%;
       height: 900px;
-      background: url("/Users/test/Desktop/uxui website media/Main page/second image main pge.jpeg");
+      background: url("Main page/second image main pge.jpeg");
       opacity: 1;
       position: absolute;
       top: 19px;
@@ -585,7 +585,7 @@
     .v16_826 {
       width: 100%;
       height: 900px;
-      background: url("/Users/test/Desktop/uxui website media/Main page/top image main page.jpeg");
+      background: url("Main page/top image main page.jpeg");
       opacity: 1;
       position: absolute;
       top: 0px;
