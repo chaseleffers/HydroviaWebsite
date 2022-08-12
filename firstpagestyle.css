@@ -147,6 +147,14 @@
     /* identical to box height */
     color: #000000;
   }
+
+  .hydrovialogoheaderbar {
+    position: absolute;
+    left: 10px;
+    top: 16px;
+    width: 10%;
+    display: block;
+  }
   
   .headerbartext {
     margin-inline: 20px;
