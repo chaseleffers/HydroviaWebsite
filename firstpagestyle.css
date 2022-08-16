@@ -14,7 +14,7 @@
     margin: 10px;
     color: white;
     left: 25%;
-    width: 100%;
+    width: 50%;
   }
   
   .bottombarlistitem1{
@@ -614,10 +614,10 @@
     }
     .v16_828 {
       width: 100%;
+      left: 0%;
       color: rgba(247,247,247,1);
       position: absolute;
       top: 235px;
-      left: 0%;
       font-family: Sulphur Point;
       font-weight: Bold;
       font-size: 105px;
