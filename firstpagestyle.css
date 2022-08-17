@@ -152,7 +152,7 @@
     position: absolute;
     left: 10px;
     top: 16px;
-    width: 30%;
+    max-width: auto;
     display: block;
     height: 50px;
   }
@@ -307,6 +307,7 @@
       position: absolute;
       top: 19px;
       left: 0px;
+      background-size: cover;
     }
     .catalysttextbox {
       width: 908px;
@@ -381,6 +382,7 @@
       position: absolute;
       top: 21px;
       left: 0px;
+      background-size: cover;
     }
     .v16_801 {
       width: 80%;
@@ -454,6 +456,7 @@
       position: absolute;
       top: 19px;
       left: 0px;
+      background-size: cover;
     }
     .v16_810 {
       width: 908px;
@@ -525,6 +528,7 @@
       position: absolute;
       top: 19px;
       left: 0px;
+      background-size: cover;
     }
     .v16_818 {
       width: 60%;
@@ -599,6 +603,7 @@
       position: absolute;
       top: 0px;
       left: 0px;
+      background-size: cover;
     }
     .v16_827 {
       width: 401;
